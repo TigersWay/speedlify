@@ -6,3 +6,8 @@ _data/results-last-runs.json
 package-lock.json
 .env
 .cache
+
+pnpm-lock.yaml
+.editorconfig
+desktop.ini
+folder.ico
