@@ -2,7 +2,7 @@ module.exports = {
   name: "Hosters",
 	description: "Hosters (ECBS)",
 	options: {
-		frequency: 60 * 2,
+		frequency: 60 * 23,
 		freshChrome: "run",
 	},
 	urls: [

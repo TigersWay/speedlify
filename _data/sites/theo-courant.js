@@ -2,7 +2,7 @@ module.exports = {
 	name: "theo-courant",
 	description: "theo-courant.com v3",
 	options: {
-		frequency: 60 * 2,
+		frequency: 60 * 23,
 		freshChrome: "site"
 	},
 	urls: [
