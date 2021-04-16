@@ -11,6 +11,6 @@ module.exports = {
     // Page
 		"https://theo-courant.netlify.app/bangkok/",
     // Article
-    "https://theo-courant.netlify.app/bangkok-du-shopping-du-magasinage-emplettes-22/"
+    "https://theo-courant.netlify.app/le-marche-de-nuit-talad-rot-fai/"
 	]
 };
