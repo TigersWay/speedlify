@@ -7,10 +7,10 @@ module.exports = {
 	},
 	urls: [
 		// Home & Likes
-    "https://theo-courant.netlify.app/",
+    // "https://theo-courant.netlify.app/",
     // Page
-		"https://theo-courant.netlify.app/bangkok/",
+		// "https://theo-courant.netlify.app/bangkok/",
     // Article
-    "https://theo-courant.netlify.app/le-marche-de-nuit-talad-rot-fai/"
+    // "https://theo-courant.netlify.app/le-marche-de-nuit-talad-rot-fai/"
 	]
 };
